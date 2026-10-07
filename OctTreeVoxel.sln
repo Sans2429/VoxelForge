@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctTreeVoxel", "OctTreeVoxel\OctTreeVoxel.csproj", "{285AB69E-2851-4A90-95CB-7E938C97BDA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285AB69E-2851-4A90-95CB-7E938C97BDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285AB69E-2851-4A90-95CB-7E938C97BDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285AB69E-2851-4A90-95CB-7E938C97BDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285AB69E-2851-4A90-95CB-7E938C97BDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8995B07A-5896-40A4-8744-2711ABF291C5}
+	EndGlobalSection
+EndGlobal
